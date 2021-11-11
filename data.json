@@ -1,0 +1,46 @@
+{
+    "BootcampCrew" : [
+    {
+        "Nombre": "Vania",
+        "Apellido": "Ramirez",
+        "Edad": 30,
+        "Cumpleaños": "10 de junio"
+    },
+    {
+        "Nombre": "Moni",
+        "Apellido": "Macal",
+        "Edad": 29,
+        "Cumpleaños": "25 de noviembre"
+    },
+    {
+        "Nombre": "David",
+        "Apellido": "Hernández",
+        "Edad": 30,
+        "Cumpleaños": "10 de junio"
+    }, 
+    {    
+        "Nombre": "Alberto",
+        "Apellido": "Gutierrez",
+        "Edad": 30,
+        "Cumpleaños": "13 de julio"
+    }, 
+    {
+        "Nombre": "Fernanda",
+        "Apellido": "Fajardo",
+        "Edad": 27,
+        "Cumpleaños": "2 de enero"
+    }, 
+    {
+        "Nombre": "Amanda",
+        "Apellido": "Ramirez",
+        "Edad": 17,
+        "Cumpleaños": "24 de noviembre"
+    }, 
+    {
+        "Nombre": "Jaziel",
+        "Apellido": "Ramirez",
+        "Edad": 33,
+        "Cumpleaños": "15 de mayo"
+    }
+] 
+}
